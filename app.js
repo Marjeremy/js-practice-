@@ -1,8 +1,8 @@
 console.log("Hello World!");
 let myname = "Mark Jeremy Gaoat";
-console.log = ("Myname is ", myname);
+console.log("Myname is ", myname);
 
-console.log = ("USING VARIABLE ");
+console.log("USING VARIABLE ");
 let name = "Mark Jeremy";
 let age = "19";
 
